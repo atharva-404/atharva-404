@@ -51,4 +51,4 @@ I'm a **Computer Science & IT student at Mumbai University**, passionate about *
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”*  
+
