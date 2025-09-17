@@ -42,15 +42,6 @@ I'm a **Computer Science & IT student at Mumbai University**, passionate about *
 🔹 [**Your AI Scheduler**](#) – Smart scheduler assistant powered by **NLP & automation**.  
 🔹 [**Datify**](#) – AI-powered dating platform with **React frontend & Django backend**.  
 
-*(Click on the repos above to explore more!)*  
-
----
-
-## 📊 GitHub Stats  
-
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-404&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-404&layout=compact&theme=radical)  
-
 ---
 
 ## 🌐 Connect With Me  
