@@ -40,7 +40,7 @@ I'm a **Computer Science & IT student at Mumbai University**, passionate about *
 🔹 [**FitHub Gym**](#) – Gym management system with **AI-powered workout recommendations, OpenCV trainer, and chatbot support**.  
 🔹 [**Crypto Trading Bot**](#) – Automated trading bot using **Binance Futures Testnet + Django**.  
 🔹 [**Your AI Scheduler**](#) – Smart scheduler assistant powered by **NLP & automation**.  
-🔹 [**Datify**](#) – AI-powered dating platform with **React frontend & Django backend**.  
+  
 
 ---
 
